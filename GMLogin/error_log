@@ -1,0 +1,224 @@
+[15-May-2014 19:10:55 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 19:10:56 America/Denver] PHP Warning:  require_once(file:///C|/Users/Boakai/AppData/Local/Temp/scp40668/www/GMLogin/login.php): failed to open stream: No such file or directory in /home1/lobaliz4/public_html/GMLogin/index.php on line 66
+[15-May-2014 19:10:56 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'file:///C|/Users/Boakai/AppData/Local/Temp/scp40668/www/GMLogin/login.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/lobaliz4/public_html/GMLogin/index.php on line 66
+[15-May-2014 19:11:03 America/Denver] PHP Warning:  require_once(file:///C|/Users/Boakai/AppData/Local/Temp/scp40668/www/GMLogin/login.php): failed to open stream: No such file or directory in /home1/lobaliz4/public_html/GMLogin/index.php on line 66
+[15-May-2014 19:11:03 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'file:///C|/Users/Boakai/AppData/Local/Temp/scp40668/www/GMLogin/login.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/lobaliz4/public_html/GMLogin/index.php on line 66
+[15-May-2014 19:11:38 America/Denver] PHP Warning:  require_once(file:///C|/Users/Boakai/AppData/Local/Temp/scp40668/www/GMLogin/login.php): failed to open stream: No such file or directory in /home1/lobaliz4/public_html/GMLogin/index.php on line 66
+[15-May-2014 19:11:38 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'file:///C|/Users/Boakai/AppData/Local/Temp/scp40668/www/GMLogin/login.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/lobaliz4/public_html/GMLogin/index.php on line 66
+[15-May-2014 19:14:36 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 19:15:04 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 19:15:04 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 19:15:04 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 19:20:53 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 19:20:53 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 19:20:53 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 19:20:59 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 19:21:14 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 19:21:14 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 19:24:52 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 19:25:25 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 19:25:25 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 19:25:25 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 19:49:22 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 19:52:49 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 115
+[15-May-2014 19:55:56 America/Denver] PHP Notice:  Undefined variable: db_hostname in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 117
+[15-May-2014 19:55:56 America/Denver] PHP Notice:  Undefined variable: db_username in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 117
+[15-May-2014 19:55:56 America/Denver] PHP Notice:  Undefined variable: db_password in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 117
+[15-May-2014 19:55:56 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'sean'@'localhost' (using password: NO) in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 117
+[15-May-2014 19:57:42 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 19:57:42 America/Denver] PHP Notice:  Undefined variable: salt2 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 19:58:10 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 19:59:27 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 19:59:27 America/Denver] PHP Notice:  Undefined variable: salt2 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 19:59:48 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:00:10 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:00:16 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:00:20 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:00:28 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 20:00:28 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:00:50 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:00:50 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 20:00:50 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 20:01:27 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:01:27 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 20:01:27 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 20:01:44 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:01:44 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 20:01:44 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 20:01:44 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:02:13 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 20:02:13 America/Denver] PHP Notice:  Undefined variable: salt2 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 20:02:21 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:02:29 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 20:02:29 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:05:41 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:05:41 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 20:05:41 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 20:05:49 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:05:49 America/Denver] PHP Notice:  Undefined index: reADMPass in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 20:05:49 America/Denver] PHP Notice:  Undefined index: ADMName in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 134
+[15-May-2014 20:05:49 America/Denver] PHP Notice:  Undefined index: ADMEmail in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 135
+[15-May-2014 20:05:49 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 136
+[15-May-2014 20:05:49 America/Denver] PHP Notice:  Undefined index: ADMUname in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 137
+[15-May-2014 20:07:23 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Undefined index: reADMPass in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Undefined index: ADMName in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 134
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Undefined index: ADMEmail in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 135
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 136
+[15-May-2014 20:07:45 America/Denver] PHP Notice:  Undefined index: ADMUname in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 137
+[15-May-2014 20:10:35 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:10:35 America/Denver] PHP Notice:  Undefined index: reADMPass in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 20:10:35 America/Denver] PHP Notice:  Undefined index: ADMName in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 134
+[15-May-2014 20:10:35 America/Denver] PHP Notice:  Undefined index: ADMEmail in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 135
+[15-May-2014 20:10:35 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 136
+[15-May-2014 20:10:35 America/Denver] PHP Notice:  Undefined index: ADMUname in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 137
+[15-May-2014 20:10:41 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:10:41 America/Denver] PHP Notice:  Undefined index: reADMPass in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 20:10:41 America/Denver] PHP Notice:  Undefined index: ADMName in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 134
+[15-May-2014 20:10:41 America/Denver] PHP Notice:  Undefined index: ADMEmail in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 135
+[15-May-2014 20:10:41 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 136
+[15-May-2014 20:10:41 America/Denver] PHP Notice:  Undefined index: ADMUname in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 137
+[15-May-2014 20:10:44 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:10:58 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:10:58 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 20:10:58 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 20:10:59 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:10:59 America/Denver] PHP Notice:  Undefined index: reADMPass in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 20:10:59 America/Denver] PHP Notice:  Undefined index: ADMName in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 134
+[15-May-2014 20:10:59 America/Denver] PHP Notice:  Undefined index: ADMEmail in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 135
+[15-May-2014 20:10:59 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 136
+[15-May-2014 20:10:59 America/Denver] PHP Notice:  Undefined index: ADMUname in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 137
+[15-May-2014 20:11:15 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:11:20 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:11:23 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:11:29 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 20:11:29 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Undefined index: CPuname in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Undefined index: reADMPass in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 133
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Undefined index: ADMName in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 134
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Undefined index: ADMEmail in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 135
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Undefined variable: salt1 in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 136
+[15-May-2014 20:11:39 America/Denver] PHP Notice:  Undefined index: ADMUname in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 137
+[15-May-2014 20:19:37 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:21:31 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 20:21:31 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 20:21:31 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 20:21:32 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 116
+[15-May-2014 20:23:34 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 113
+[15-May-2014 20:25:50 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 113
+[15-May-2014 21:12:40 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 155
+[15-May-2014 21:14:13 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 155
+[15-May-2014 21:14:16 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 155
+[15-May-2014 21:14:50 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 155
+[15-May-2014 21:15:45 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 155
+[15-May-2014 21:16:08 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 155
+[15-May-2014 21:16:29 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 155
+[15-May-2014 21:16:35 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 155
+[15-May-2014 21:19:16 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:22:21 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:23:49 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:24:12 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:27:22 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:27:53 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:28:07 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:28:07 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 21:28:07 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 21:28:08 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:28:46 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:33:47 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:33:51 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:35:37 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:36:33 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:39:42 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:40:18 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:40:20 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:40:22 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:40:36 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:40:57 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:41:32 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:43:01 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:45:51 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:47:22 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:47:35 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:47:35 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 21:47:35 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 21:47:35 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:47:50 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:48:06 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:48:32 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:49:11 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:49:18 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:49:21 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:50:01 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 21:50:01 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:50:10 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:50:10 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 21:50:10 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 21:50:10 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:50:18 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:50:21 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:51:36 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 21:51:36 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:51:52 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:51:52 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 21:51:52 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 21:51:53 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:52:03 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:52:05 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:53:46 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 21:53:47 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:54:02 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 21:54:02 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 21:54:02 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 21:54:02 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:55:13 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:55:32 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 156
+[15-May-2014 21:58:46 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 21:59:34 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 21:59:40 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 21:59:59 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 22:00:06 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 22:00:39 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 22:00:54 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 23:25:29 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 23:25:29 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:25:41 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:25:41 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 23:25:41 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 23:25:41 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 23:26:44 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:26:50 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 23:26:50 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:26:58 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:26:58 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 23:26:58 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 23:27:02 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:27:14 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:27:14 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 23:27:14 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 23:27:15 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 23:27:58 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:28:02 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[15-May-2014 23:28:02 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:28:08 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[15-May-2014 23:28:08 America/Denver] PHP Notice:  Use of undefined constant SIpassword - assumed 'SIpassword' in /home1/lobaliz4/public_html/GMLogin/index.php on line 154
+[15-May-2014 23:28:08 America/Denver] PHP Notice:  Use of undefined constant SIusername - assumed 'SIusername' in /home1/lobaliz4/public_html/GMLogin/index.php on line 156
+[15-May-2014 23:28:08 America/Denver] PHP Notice:  Undefined index: newADMBtn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 157
+[15-May-2014 23:46:43 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[16-May-2014 10:07:59 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[16-May-2014 10:08:00 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[16-May-2014 10:41:52 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[16-May-2014 10:41:52 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[16-May-2014 10:41:53 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[16-May-2014 10:41:53 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[16-May-2014 12:32:49 America/Denver] PHP Notice:  Undefined index: isLoggedIn in /home1/lobaliz4/public_html/GMLogin/Admin.php on line 3
+[16-May-2014 12:32:50 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[16-May-2014 12:34:15 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82
+[16-May-2014 12:34:40 America/Denver] PHP Notice:  Undefined index: updatePass in /home1/lobaliz4/public_html/GMLogin/index.php on line 82

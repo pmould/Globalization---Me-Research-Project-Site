@@ -1,0 +1,727 @@
+/* General Demo Style */
+
+
+
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+
+
+
+
+
+
+@font-face {
+
+
+
+    font-family: 'AnimalsNormal';
+
+
+
+    src: url('fonts/animals-webfont.eot');
+
+
+
+    src: url('fonts/animals-webfont.eot?#iefix') format('embedded-opentype'),
+
+
+
+         url('fonts/animals-webfont.woff') format('woff'),
+
+
+
+         url('fonts/animals-webfont.ttf') format('truetype'),
+
+
+
+         url('fonts/animals-webfont.svg#AnimalsNormal') format('svg');
+
+
+
+    font-weight: normal;
+
+
+
+    font-style: normal;
+
+
+
+}
+
+
+
+
+
+
+
+html { height: 100%; }
+
+
+
+
+
+
+
+*,
+
+
+
+*:after,
+
+
+
+*:before {
+
+
+
+	-webkit-box-sizing: border-box;
+
+
+
+	-moz-box-sizing: border-box;
+
+
+
+	box-sizing: border-box;
+
+
+
+	padding: 0;
+
+
+
+	margin: 0;
+
+
+
+}
+
+
+
+
+
+
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+
+
+
+.clearfix:after {
+
+
+
+	content: "";
+
+
+
+	display: table;
+
+
+
+	clear: both;
+
+
+
+}
+
+
+
+
+
+
+
+body {
+
+
+
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+
+
+
+    background: #fff;
+
+
+
+    font-weight: 300;
+
+
+
+    font-size: 15px;
+
+
+
+    color: #333;
+
+
+
+    -webkit-font-smoothing: antialiased;
+
+
+
+}
+
+
+
+
+
+
+
+a {
+
+
+
+	color: #555;
+
+
+
+	text-decoration: none;
+
+
+
+}
+
+
+
+
+
+
+
+.container {
+
+
+
+	width: 100%;
+
+
+
+	position: relative;
+
+
+
+	border-top:1px solid #2c3e50;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.clr {
+
+
+
+	clear: both;
+
+
+
+	padding: 0;
+
+
+
+	height: 0;
+
+
+
+	margin: 0;
+
+
+
+}
+
+
+
+
+
+
+
+.main {
+
+
+
+	width: 90%;
+
+
+
+	margin: 0 auto;
+
+
+
+	position: relative;
+
+
+
+}
+
+
+
+
+
+
+
+.container > header,
+
+
+
+.content-wrapper {
+
+
+
+	padding: 30px;
+
+
+
+	width: 80%;
+
+
+
+	max-width: 960px;
+
+
+
+	margin: 0 auto;
+
+
+
+}
+
+
+
+
+
+
+
+.content-wrapper p{
+
+
+
+	padding-top: 30px;
+
+
+
+	line-height: 26px;
+
+
+
+}
+
+
+
+
+
+
+
+footer {
+
+
+
+	margin-top:90px;
+
+
+
+	display:block;
+
+
+
+width: 100%;
+
+
+
+
+
+
+
+background-color:#3c4e60;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+blockquote p > a:hover{
+
+
+
+	border-bottom:1px solid #1dd2af;
+
+
+
+	
+
+
+
+}
+
+
+
+#innerFooter{
+
+
+
+	width:80%;
+
+
+
+	max-width: 960px;
+
+
+
+	padding: 30px;
+
+
+
+margin: 0 auto;
+
+
+
+color:#ffffff;
+
+
+
+	
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#and, .container > header h1 {
+
+
+
+	font-size: 35px;
+
+
+
+	line-height: 38px;
+
+
+
+	margin: 0;
+
+
+
+	font-weight: 700;
+
+
+
+	color: #333;
+
+
+
+	float: left;
+
+
+
+	
+
+
+
+}
+
+
+
+
+
+
+
+#tagline {
+
+
+
+	display: block;
+
+
+
+	font-size: 13px;
+
+
+
+	font-weight: 300;
+
+
+
+	
+
+
+
+}
+
+
+
+#and, .container > header h1 b{
+
+
+
+	
+
+
+
+	color:#1dd2af;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+h2{
+
+
+
+	color:#1dd2af;
+
+
+
+}
+
+
+
+h3 
+
+{
+
+		color:#1dd2af;
+
+}
+
+
+
+a{
+
+
+
+	-webkit-transition: all 0.3s linear;
+
+
+
+-moz-transition: all 0.3s linear;
+
+
+
+-o-transition: all 0.3s linear;
+
+
+
+-ms-transition: all 0.3s linear;
+
+
+
+transition: all 0.3s linear;
+
+
+
+}
+
+
+
+h1 a{
+
+
+
+	cursor:pointer;	
+
+
+
+}
+
+
+
+
+
+
+
+.button{
+
+	
+
+	background-color:#468185;
+
+	font-family: Arial, Helvetica, sans-serif;
+
+
+
+	font-size: 16px;
+
+
+
+    padding: 7px 16px;
+
+
+
+	color: #F8F8F8;
+
+
+
+	background-image:-moz-linear-gradient(
+
+
+
+		top,
+
+
+
+		#bae1e8 0%,
+
+
+
+		#468185 50%,
+
+
+
+		#bae1e8);
+
+
+
+	background-image: -webkit-gradient(
+
+
+
+		linear, left top, left bottom,
+
+
+
+		from(#bae1e8),
+
+
+
+		color-stop(0.50, #468185),
+
+
+
+		to(#bae1e8));
+
+
+
+	-moz-border-radius: 10px;
+
+
+
+	-webkit-border-radius: 10px;
+
+
+
+	border-radius: 10px;
+
+
+
+	border: 1px solid #547286;	
+
+
+
+	text-shadow:
+
+
+
+		0px -1px 0px rgba(000,000,000,0.4),
+
+
+
+		0px 1px 0px rgba(255,255,255,0.3);
+
+
+
+}
+
+
+
+
+
+
+
+.button:hover {
+
+
+
+ background: -moz-linear-gradient(
+
+
+
+		top,
+
+
+
+		#bae1e8 0%,
+
+
+
+		#2c7c82 50%,
+
+
+
+		#bae1e8);
+
+
+
+	background: -webkit-gradient(
+
+
+
+		linear, left top, left bottom,
+
+
+
+		from(#bae1e8),
+
+
+
+		color-stop(0.50, #2c7c82),
+
+
+
+		to(#bae1e8));
+
+
+
+}
+
+
+
+#embed_npwlo{
+
+position:absolute;
+
+
+
+}
+
+
+
+#admLogin a{
+
+	color:cyan;
+
+}

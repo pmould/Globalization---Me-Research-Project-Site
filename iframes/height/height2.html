@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>untitled</title>
+<style type="text/css">
+body { font: 14px/1.3 verdana, arial, helvetica, sans-serif; }
+h1 { font-size:1.2em; }
+a:link { color:#33c; } 
+a:visited { color:#339; }
+</style>
+</head>
+<body>
+
+<h1>The Code</h1>
+
+<p>The code to set iframe height to match its document's height is brief and includes just two functions.</p>
+
+<p>The <code>getDocHeight</code> function obtains the height of the document cross-browser for both standards and quirks mode documents. The <code>setIframeHeight</code> function sets the iframe element's height to match the contained document's height.</p>
+
+<p>View the source code of the main document to see these functions.</p>
+
+
+<p>A call to the function <code>setIframeHeight</code> is added to the iframe element's onload attribute:</p>
+
+<pre>
+&lt;iframe id=&quot;ifrm&quot; src=&quot;pages/height1.html&quot;
+  onload=&quot;setIframeHeight(this.id)&quot;&gt;&lt;/iframe&gt;
+</pre>
+
+
+</body>
+</html>

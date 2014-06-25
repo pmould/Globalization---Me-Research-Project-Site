@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>Object References across Iframes</title>
+<style type="text/css">
+body { font: 14px/1.3 verdana, arial, helvetica, sans-serif; }
+h1 { font-size:1.4em; }
+h2 { font-size:1.3em; margin: 1.4em 0 .8em 0; }
+p { margin: .8em 0 .8em 0; }
+a:link { color:#33c; } 
+a:visited { color:#339; }
+
+iframe#ifrm {
+    width:85%; height:200px;
+    border:1px solid #ccc;
+    }
+p.demo {
+    font-weight:bold; color:#0D2878;
+    }
+</style>
+<script type="text/javascript">
+
+window.onload = function(){
+    var form = document.getElementById('testForm');
+    form.testBtn.onclick = sendData;
+}
+
+function notify() {
+    //alert('iframe loaded');
+    var iframeEl = document.getElementById('ifrm');
+    if ( iframeEl && iframeEl.parentNode && document.createElement ) {
+        var newTxt = document.createTextNode('The iframe has loaded and your browser supports it\'s onload attribute.');
+        var newPara = document.createElement("p");
+        newPara.className = 'demo';
+        newPara.appendChild(newTxt);
+        iframeEl.parentNode.insertBefore(newPara, iframeEl);
+    }
+}
+
+function sendData() { // to form inside iframed document
+    // frames array method:
+    //window.frames['ifrm'].document.forms['ifrmTest'].elements['display'].value = this.form.testEntry.value;
+    var ifrm = document.getElementById('ifrm');
+    var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
+    var form = doc.getElementById('ifrmTest');
+    form.display.value = this.form.testEntry.value;
+}
+
+// test in iframed doc
+var counter = 0;
+
+</script>
+</head>
+<body>
+
+<h1>Communication to and from Iframes</h1>
+
+<p>This document tests and demonstrates browser support for certain properties of iframes and capabilities for communication between the document containing the iframe and the window and document inside the iframe.</p>
+
+<p><strong><em>Note:</em></strong> Run this example under a server to avoid possible JavaScript security-related error messages in Chrome.</p>
+
+<p>See <a href="http://www.dyn-web.com/tutorials/iframes/">dyn-web's Iframes Tutorial</a> for details, including information on JavaScript's <a href="http://www.dyn-web.com/tutorials/iframes/refs/#access">same origin policy</a>.</p>
+
+<h2>Demonstration</h2>
+
+<p>If your browser supports the iframe <code>onload</code> attribute, and most current browsers do, you will see a statement to that effect in bold letters above the iframe.</p>
+
+<p>The text box and button just below are contained in the current document. If you enter something into the text box and click the button, it should be displayed in the iframe document's text box. If the content is not displayed that means the browser you are using does not support the <code>contentWindow</code> or <code>contentDocument</code> properties. No worries, you could use the frames array to support older browsers. See <a href="http://www.dyn-web.com/tutorials/iframes/">Iframes Tutorial</a> for more information.</p>
+
+<form id="testForm" action="#">
+<p><input type="text" name="testEntry" size="30" value="[enter something]" /> <input name="testBtn" type="button" value="Click Me" /></p>
+</form>
+
+<iframe name="ifrm" id="ifrm" src="refs.html" onload="notify()">Sorry, your browser doesn't support iframes.</iframe>
+
+
+<p>Back to <a href="../index.html">Iframes Examples</a></p>
+
+</body>
+</html>
